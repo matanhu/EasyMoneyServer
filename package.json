@@ -1,0 +1,23 @@
+{
+  "name": "easy_money",
+  "version": "1.0.0",
+  "description": "EasyMoney Server Side",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matanhu/EasyMoneyServer.git"
+  },
+  "author": "Matan Huja",
+  "license": "PRIVATE",
+  "bugs": {
+    "url": "https://github.com/matanhu/EasyMoneyServer/issues"
+  },
+  "homepage": "https://github.com/matanhu/EasyMoneyServer#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
